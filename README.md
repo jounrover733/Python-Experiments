@@ -5,9 +5,9 @@ Mississippi State University.
 ## **Plan**
 Future Plans for this repository include adding a sample data file and a Jupyter notebook that will interact with the file. 
 
-### **About Me**
-Hello, my name is Ali Sotoodeh (Ah-lee Soh-too-deh). I am a Ph.D. student in Industrial Engineering, an Electrical Engineer/Designer, 
-and an adjunct faculty member teaching CAD and Machine Design in Texas. My expertise lies in data-driven engineering solutions and electrical system design.
+## **About Me**
+Hello, my name is Ali Sotoodeh (Ah-lee Soh-too-deh). I am a *Ph.D. student* in Industrial Engineering, an Electrical Engineer/Designer, 
+and an adjunct faculty member teaching CAD and **Machine Design** in Texas. My expertise lies in data-driven engineering solutions and electrical system design.
 
 *My research explores the following:*
 * bio-inspired design
