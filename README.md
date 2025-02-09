@@ -19,6 +19,6 @@ and an adjunct faculty member teaching CAD and Machine Design in Texas. My exper
 This GitHub serves as a platform to share projects, research, and technical work in engineering and data science. I welcome collaboration and knowledge exchange. 🚀
 
 
-![Generative AI image](![image](https://github.com/user-attachments/assets/11764904-a3e9-45cc-afd3-b8f7b73e5b17)
+![Generative AI image that represent my background]![image](https://github.com/user-attachments/assets/11764904-a3e9-45cc-afd3-b8f7b73e5b17)
 
 
