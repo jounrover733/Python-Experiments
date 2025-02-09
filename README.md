@@ -2,8 +2,13 @@
 This repository contains the initial code I created when learning to use GitHub as part of DSCI 8133, Foundations of Data Science at 
 Mississippi State University.
 
-## **Plan**
-Future Plans for this repository include adding a sample data file and a Jupyter notebook that will interact with the file. 
+## **🔮 Future Vision: Illuminating Data with Intelligence**
+This repository is set to evolve into a hub of innovation where light, energy, and data science converge. Upcoming enhancements include:
+
+✨ A Sample Data File – A structured dataset to fuel insightful analysis.
+⚡ An Interactive Jupyter Notebook – Bringing data to life with visualizations, computations, and intelligent models.
+
+Stay tuned as we illuminate new pathways in data-driven engineering! 🚀💡
 
 ## **About Me**
 Hello, my name is Ali Sotoodeh (Ah-lee Soh-too-deh). I am a **Ph.D. student** in Industrial Engineering, an Electrical Engineer/Designer, 
