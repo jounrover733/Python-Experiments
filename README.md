@@ -12,7 +12,7 @@ Stay tuned as we illuminate new pathways in data-driven engineering! 🚀💡
 
 ## **About Me**
 Hello, my name is Ali Sotoodeh (Ah-lee Soh-too-deh). I am a **Ph.D. student** in Industrial Engineering, an Electrical Engineer/Designer, 
-and an adjunct faculty member teaching CAD and **Machine Design** in Texas. My expertise lies in data-driven engineering solutions and electrical system design.
+and an adjunct faculty member teaching CAD and **Machine Design** in Texas. My expertise lies in *data-driven engineering* solutions and electrical system design.
 
 *My research explores the following:*
 * bio-inspired design
