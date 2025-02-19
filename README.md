@@ -3,10 +3,10 @@ This repository was created as part of my learning journey in DSCI 8133: Foundat
 It serves as a starting point for exploring GitHub as a collaborative tool for managing and sharing data science projects.
 
 ## **🔮 Future Vision: Illuminating Data with Intelligence**
-This repository is set to evolve into a hub of innovation where light, energy, and data science converge. Upcoming enhancements include:
+This repository is set to evolve into a hub of innovation where **light, energy, and data science** converge. Upcoming enhancements include:
 
-✨ A Sample Data File – A structured dataset to fuel insightful analysis.
-⚡ An Interactive Jupyter Notebook – Bringing data to life with visualizations, computations, and intelligent models.
+✨ **A Sample Data File** – A structured dataset to fuel insightful analysis.
+⚡ **An Interactive Jupyter Notebook** – Bringing data to life with visualizations, computations, and intelligent models.
 
 Stay tuned as we illuminate new pathways in data-driven engineering! 🚀💡
 
