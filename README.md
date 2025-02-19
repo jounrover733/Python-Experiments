@@ -10,14 +10,18 @@ This repository is set to evolve into a hub of innovation where light, energy, a
 
 Stay tuned as we illuminate new pathways in data-driven engineering! 🚀💡
 
-## **About Me**
-Hello, my name is Ali Sotoodeh (Ah-lee Soh-too-deh). I am a **Ph.D. student** in Industrial Engineering, an Electrical Engineer/Designer, 
-and an adjunct faculty member teaching CAD and **Machine Design** in Texas. My expertise lies in *data-driven engineering* solutions and electrical system design.
+---
+
+## 👨‍💻 About Me  
+Hello! My name is **Ali Sotoodeh** (Ah-lee Soh-too-deh). I am:  
+- 🎓 A Ph.D. student in **Industrial Engineering**  
+- ⚡ An **Electrical Engineer/Designer**  
+- 🎓 An **Adjunct Faculty Member** teaching **CAD and Machine Design** in Texas  
 
 *My research explores the following:*
-- 🏛 **Bio-inspired design 
-- ⚡ **Industrial safety and systems  
-- 🔢 **Computational modeling  
+- 🏛 Bio-inspired design 
+- ⚡ Industrial safety and systems  
+- 🔢 Computational modeling  
 
   Recent publications include studies on **LED heat sink optimization** and **system safety analysis**.
 
